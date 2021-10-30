@@ -1,3 +1,3 @@
 # BALLOON-game
-language : Python \n
-modules : os, pygame
+language : Python    
+modules : os, pygame    
